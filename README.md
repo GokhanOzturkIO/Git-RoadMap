@@ -60,6 +60,7 @@ pattern*/
 **REWRITE HISTORY**
 
 - git rebase [branch]
+- git rebase --interactive
 - git reset --hard [commit]
 
 **TEMPORARY COMMITS**
